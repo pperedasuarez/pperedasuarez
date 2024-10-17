@@ -8,9 +8,9 @@ I live in Washington, D.C. I am Uruguayan and come from Montevideo, which is my 
 📌 My main topics of interest are economic gender gaps and their mechanisms, early childhood development, and scientific communication, with particular emphasis on compelling data visualizations.
 ️
 
-In addition to being particularly obsessed with microeconometrics and R, I am a huge Taylor Swift fan (which can be [checked out here](https://paulapereda.com/2021/01/07/taylor-analisis-de-texto-sobre-la-discografia-de-taylor-swift-en-r/)), and I enjoy doing programming projects, drawing and painting!
+In addition to being particularly obsessed with microeconometrics and R, I am a huge Taylor Swift fan (which can be [checked out here](https://paulapereda.com/2021/01/07/taylor-analisis-de-texto-sobre-la-discografia-de-taylor-swift-en-r/)), and I enjoy doing [programming projects](https://paulapereda.com/portfolio/), writing [dissemination articles](https://paulapereda.com/), drawing and painting!
 
 ️Feel free to contact me:
 
 - 🦜 Twitter: [@paubgood](www.twitter.com/paubgood)
-- 📧 Mail: paaupereda@gmail.com
+- 📧 Mail: pperedasuarez@worldbank.org
